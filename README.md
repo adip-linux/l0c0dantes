@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 Doing this to chronicle my adventures in attempting to participate in the chainlink oracle olympics.
+
+2/15 - float the idea of doing this to the fine techically inclined people of a fair IRC chatroom
+     - Setup geth node
+     - waiting for gethnode to get synced
+     - Was told to setup a github for "getting expirence"
